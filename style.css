@@ -1,0 +1,29 @@
+body{
+	background-image: url("images/images.jpg");
+	background-size: cover;
+	text-align: center;
+
+}
+
+.login{
+
+	width: auto;
+	margin-top: 250px;
+	line-height: 50px;
+}
+
+form input{
+	padding: 8px 20px;	
+	border: none;
+	opacity: 0.8;
+	border-radius: 3px;
+}
+
+form button{
+
+		/*background-color: #5a4239/;*/
+		opacity: 0.8;
+		padding: 5px 40px;
+		border-radius: 2px;
+		border: none;
+}
